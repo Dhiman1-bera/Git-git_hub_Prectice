@@ -1,2 +1,3 @@
 # Git-git_hub_Prectice
-Only for prectice git-github parpas
+Only for prectice git-github parpas.
+Author - Dhiman Bera
